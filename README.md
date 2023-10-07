@@ -128,6 +128,7 @@ def main():
                 transaksi()
             elif buyer_choice == '2':
                 tampilkan_part()
+                print("dibeli lah xixixi, lihat dulu tabel diatas, sangat menggiurkan ya kan???")
             else:
                 print("Pilihan tidak benar.")
         elif role == '3':
