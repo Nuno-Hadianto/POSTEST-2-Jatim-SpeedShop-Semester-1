@@ -196,5 +196,6 @@ Program di atas adalah sebuah aplikasi untuk mengelola daftar "Part Racing" yang
 
 ** Flowchart **
 
-![flowchart pos tes 2 drawio](https://github.com/Nuno-Hadianto/POSTEST-2-Jatim-SpeedShop/assets/63713816/5d72eb11-f29d-4f78-a55a-544964120b39)
+![flowchart pos tes 2 drawio](https://github.com/Nuno-Hadianto/POSTEST-2-Jatim-SpeedShop/assets/63713816/0096f34d-4105-4fba-9eeb-93cf594cb120)
+
 
